@@ -7,7 +7,6 @@
 
 ### 🛠 Skills
 - C 
-- Git & GitHub
 
 ### 📌 Current Focus
 - Daily DSA practice
